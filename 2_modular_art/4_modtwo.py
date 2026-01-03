@@ -1,0 +1,1 @@
+# use fermat's little theorem where a^(p-1) ≡ 1
